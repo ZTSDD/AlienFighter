@@ -1,2 +1,2 @@
 # AlienFighter
-This is raining solution
+This is a training solution
